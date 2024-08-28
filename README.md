@@ -1,6 +1,6 @@
 
 
-# Rental-Limit-Airbnb
+# Rental Limit Airbnb (SQL Project)
 
 ## Project overview
 
