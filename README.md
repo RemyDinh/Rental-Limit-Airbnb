@@ -4,12 +4,14 @@
 
 ## Project overview
 
-## Approach
-### Business Problem
+## Business Problem
+
+## Data 
 ### Collection
 ### Techstack
 ### Cleaning & Engineering
-### Analysis
+
+## Analysis
 
 ## Conclusion
 ### Findings
